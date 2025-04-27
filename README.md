@@ -1,5 +1,5 @@
-# Reg No: 212224040232
-# Date  : 27-04-25
+# REG NO: 212224040232
+# DATE  : 27-04-25
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
